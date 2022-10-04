@@ -1,0 +1,539 @@
+[33mcommit bebd168233edc87bd385d038bff852f0825bc9fd[m[33m ([m[1;31mfork/main[m[33m)[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Oct 10 10:47:30 2022 -0300
+
+    Formulários - Ajustando Heading
+
+[33mcommit e89ded00aec27c9cb984524ea477c56175d30408[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Thu Oct 6 18:18:24 2022 -0300
+
+    Formulários - Recap
+
+[33mcommit 8e4b45c88732a56c9659a2fc04d5d7fd0c9e1ca7[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Thu Oct 6 17:55:39 2022 -0300
+
+    Formulários - Validando confirmação da senha
+
+[33mcommit 731c8ebd9e66951be4d61066b59c76ac27a01b82[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Thu Oct 6 17:50:20 2022 -0300
+
+    Formulários - Validando senha
+
+[33mcommit 6a2d2422a80252fc5a55839ed74eee42666f6eee[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Thu Oct 6 17:46:28 2022 -0300
+
+    Formulários - Utilizando Schema Validations
+
+[33mcommit 2c4e778a0a623bc96ae942287f706d309566de4e[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Thu Oct 6 15:44:46 2022 -0300
+
+    Formulários - Schema Validations
+
+[33mcommit 67b51433ca851b7a682ce6f0b4fb661381a73e6a[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Thu Oct 6 15:37:57 2022 -0300
+
+    Formulários - Estilizando Inputs inválidos
+
+[33mcommit 992c59bfe0b0b6376b29e055501fa972367a2cd4[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Thu Oct 6 12:25:56 2022 -0300
+
+    Formulários - Estilizando mensagens de validação
+
+[33mcommit 475f71e21f4cdee38126c222327d1bcef3c1b714[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Wed Oct 5 19:30:08 2022 -0300
+
+    Formulários - Rules Patterns
+
+[33mcommit a1fab0e017a4db2f83b4dad3a7be62ba83c6a1f0[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Wed Oct 5 19:19:31 2022 -0300
+
+    Formulários - Obtendo a mensagem de erro
+
+[33mcommit 0e3f4c2be95c05770fac3c93975e97c202caf2b5[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Wed Oct 5 19:15:09 2022 -0300
+
+    Formulários - Adicionando regras aos inputs
+
+[33mcommit 65702848554c0b0d270aefda760d18995afb8518[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Wed Oct 5 18:57:07 2022 -0300
+
+    Formulários - Tipando os dados do formulário
+
+[33mcommit a69fdc7c75d7992145d156e39a29bb36ffb1139d[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Wed Oct 5 18:51:13 2022 -0300
+
+    Formulários - Obtendo valores do formulário
+
+[33mcommit 2c745b0cd218df4b60bf688004ae973600c2a620[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Wed Oct 5 18:45:58 2022 -0300
+
+    Formulários - Inputs Controlados
+
+[33mcommit 5ef4c0af809ef3d388428e96ac052abd100ab34f[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Wed Oct 5 18:34:37 2022 -0300
+
+    Formulários - Instalando o React Hook Form
+
+[33mcommit 5f096a97838aa65a7cf21b0601dd8fb74d4e2e65[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Wed Oct 5 18:26:35 2022 -0300
+
+    Formulários - Inputs com Estados
+
+[33mcommit 9f7253761ce7f75e4a2e17cb92eb902acc46524b[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Wed Oct 5 16:19:39 2022 -0300
+
+    Galeria de Fotos - Utilizando mensagens toast
+
+[33mcommit fd27703c909e7252cae1e9753963602bccb5759a[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Wed Oct 5 16:14:51 2022 -0300
+
+    Galeria de Fotos - Restringindo tamanho da foto
+
+[33mcommit b8cd3cb9f76798c8b4c2bee586d2d9e0fc9088e6[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Wed Oct 5 16:02:31 2022 -0300
+
+    Galeria de Fotos - Buscando infomações do arquivo
+
+[33mcommit 02d95cc61b8a5aecf3f2afa36668ecb90e907de7[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Wed Oct 5 15:59:54 2022 -0300
+
+    Galeria de Fotos - File System
+
+[33mcommit 952269f489515efb07396ea53db02cc2d2f65840[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Wed Oct 5 15:55:33 2022 -0300
+
+    Galeria de Fotos - Ativando o carregamento da foto
+
+[33mcommit f318b1e65dc3ebfa5b17d058dba11bc340c99995[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Wed Oct 5 15:51:54 2022 -0300
+
+    Galeria de Fotos - Exibindo a foto selecionada
+
+[33mcommit 005305a4cce0a7e9eccdde11fdc792095a750127[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Wed Oct 5 15:49:07 2022 -0300
+
+    Galeria de Fotos - Recuperando foto selecionada
+
+[33mcommit e5a28906a7177931845da37708f5f46b4f2ab126[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Wed Oct 5 15:45:03 2022 -0300
+
+    Galeria de Fotos - Habilitar edição da imagem
+
+[33mcommit 119e7c03fb2db99c5ebc3145e1812acd7236d04b[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Wed Oct 5 15:39:50 2022 -0300
+
+    Galeria de Fotos - Acessando Album de fotos
+
+[33mcommit de58ad21955debbffa8847ac2248a33b9e2a26d6[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Wed Oct 5 15:30:58 2022 -0300
+
+    Galeria de Fotos - Instalando o Image Picker
+
+[33mcommit 26d7d075ab9b87f2bab50fe33663b9c090a25507[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 19:14:52 2022 -0300
+
+    Finalizando as Interfaces - Recap da Exercise
+
+[33mcommit aa71e878dfae6c0582d1e6bf802c0b3da57d50a1[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 19:12:55 2022 -0300
+
+    Finalizando as Interfaces - Finalizando a interface de exercícios
+
+[33mcommit 570d97548e4b0de1ee7add05e13d096f8907596b[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 19:05:45 2022 -0300
+
+    Finalizando as Interfaces - Imagem do Exercício
+
+[33mcommit f2f153f90465f4b3b0b2ab8317732dcb9913e996[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 19:01:37 2022 -0300
+
+    Finalizando as Interfaces - Finalizando o Header do Exercício
+
+[33mcommit 236f12a10540f307eda5590e73464cd9aab01cae[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 18:54:54 2022 -0300
+
+    Finalizando as Interfaces - Criando botão de voltar
+
+[33mcommit c4c7a5a98d6a59fa26880a672786bf9a8576f670[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 18:49:43 2022 -0300
+
+    Finalizando as Interfaces - Navegando para tela de exercício
+
+[33mcommit a29c87a24f395bd524764f0218ec05a874437f07[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 18:45:02 2022 -0300
+
+    Finalizando as Interfaces - Recap do Profile
+
+[33mcommit fb0ca880b48fe59f4f07580be3e5c016a33e6d02[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 18:07:25 2022 -0300
+
+    Finalizando as Interfaces - Inputs de senha
+
+[33mcommit db954ebcc2ed90843fd136e8c10227d2da6c743a[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 17:55:36 2022 -0300
+
+    Finalizando as Interfaces - Inputs de nome e e-mails
+
+[33mcommit 39650ba81915e5335225e47951b9d39aecdc4e1d[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 17:45:51 2022 -0300
+
+    Finalizando as Interfaces - Botão alterar foto
+
+[33mcommit 50332ab76df1b587aaaba5e3db74e76afe3c51d6[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 17:32:38 2022 -0300
+
+    Finalizando as Interfaces - Efeito Skeleton
+
+[33mcommit 613b45705e29b6a488aed9a2ca0cba5087120128[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 17:21:35 2022 -0300
+
+    Finalizando as Interfaces - Foto do usuário
+
+[33mcommit 210366bc6008f05f148eaf086f0da3c4b8dc7f1a[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 17:18:19 2022 -0300
+
+    Finalizando as Interfaces - Header do Perfil do Usuário
+
+[33mcommit f18dbe29cc722ffa289487f74864fe5206164b0d[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 17:16:33 2022 -0300
+
+    Finalizando as Interfaces - Recap da History
+
+[33mcommit dd9b213b39ef9470d04f7dfb4f8b3b95c851e751[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 17:12:20 2022 -0300
+
+    Finalizando as Interfaces - Mensagem de lista vazia
+
+[33mcommit 984c5c3832bb9c3935bbcb3882af5a19d56873e7[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 17:04:57 2022 -0300
+
+    Finalizando as Interfaces - Utilizando SectionList
+
+[33mcommit d18301d705b2887ab2e04efbe41d6e129c048cf3[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 16:54:34 2022 -0300
+
+    Finalizando as Interfaces - Componente HistoryCard
+
+[33mcommit 84c5b8cce93313e8ca3049d37da6e60b427293d8[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 16:47:11 2022 -0300
+
+    Finalizando as Interfaces - Componente ScreenHeader
+
+[33mcommit 2d70a112732e9f9245b0e46b26275f43d65856e7[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 15:46:09 2022 -0300
+
+    Finalizando as Interfaces - Recap da Home
+
+[33mcommit e8bea4d0aa844124552d16661af6d464dace310b[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 15:32:20 2022 -0300
+
+    Finalizando as Interfaces - Listando exercícios
+
+[33mcommit 7ab2901860f722c2080cc1dd74e1375d646a90c0[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 15:21:35 2022 -0300
+
+    Finalizando as Interfaces - Criando componente ExerciseCard
+
+[33mcommit 686ec3b7996fe1330695129294e9c01cd25a5872[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 15:06:52 2022 -0300
+
+    Finalizando as Interfaces - Header da lista de exercícios
+
+[33mcommit 22c2d9614f8ad1ed929ac62a0e7f8a6aa3e69a4d[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 15:01:55 2022 -0300
+
+    Finalizando as Interfaces - Listando os grupos
+
+[33mcommit f6224300d450234b91a2c1983711b2cf43aaf53b[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 14:52:23 2022 -0300
+
+    Finalizando as Interfaces - Exibindo o grupo selecionado
+
+[33mcommit a910502c93639d7085aa7da1abb919da89967061[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 14:39:19 2022 -0300
+
+    Finalizando as Interfaces - Estilizando evento de Pressed
+
+[33mcommit 48a8d3659cfedf86656bf909c8cb00d184193486[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 14:35:45 2022 -0300
+
+    Finalizando as Interfaces - Utilizando o Pressable
+
+[33mcommit a6ce19a59c65d479ea2137382b918fe9c711ba60[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 14:34:41 2022 -0300
+
+    Finalizando as Interfaces - Criando componente Group
+
+[33mcommit 8ed4c77114d028eebd3f7805a6f46593037210c6[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 14:12:26 2022 -0300
+
+    Finalizando as Interfaces - Finalizando o HomeHeader
+
+[33mcommit a005d3b996159e30db34ad9ec324593fd1bed0c7[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 14:08:49 2022 -0300
+
+    Finalizando as Interfaces - Botão Logout
+
+[33mcommit cd0e222b6ed97027fc08596f2d905e13bed61946[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 14:05:03 2022 -0300
+
+    Finalizando as Interfaces - Componente UserPhoto
+
+[33mcommit e207e68092802d86c90a594d57982f92977214bc[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 13:55:06 2022 -0300
+
+    Finalizando as Interfaces - Estilizando o HomeHeader
+
+[33mcommit c54f5e27c8e96da0bc59f61ed11a41472721c3c3[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Oct 4 13:53:03 2022 -0300
+
+    Finalizando as Interfaces - Posicionando na vertical e horizontal
+
+[33mcommit 25abbeddedc0144ba2d8a0d130d27ae72b399088[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Oct 3 17:13:06 2022 -0300
+
+    Rotas Privadas - Estilizando a Bottom Navigator
+
+[33mcommit 847dd634e709495b31b4f19a0e860955c0130067[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Oct 3 17:07:54 2022 -0300
+
+    Rotas Privadas - Estilizando menu ativo e inativos
+
+[33mcommit 36823e1ceb8a9482a327f1e6b61d55acb5c48afe[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Oct 3 16:59:34 2022 -0300
+
+    Rotas Privadas - Alterando os ícones da Bottom Navigator
+
+[33mcommit 51cc506afeacf507fe90ecbc7592151289d00f1a[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Oct 3 16:51:04 2022 -0300
+
+    Rotas Privadas - Removendo a label do menu
+
+[33mcommit 418ae9b0ae46bd7acffe38e9af675281a998244c[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Oct 3 16:38:22 2022 -0300
+
+    Rotas Privadas - Removendo o Header
+
+[33mcommit a3c07a8e9b0e0596acffcde4539527e4c010ef69[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Oct 3 16:32:19 2022 -0300
+
+    Rotas Privadas - Tipando as rotas do App
+
+[33mcommit c88df43a2b3192b35c94e7d1f583e41be208880b[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Oct 3 16:25:40 2022 -0300
+
+    Rotas Privadas - Utilizando o Bottom Tab
+
+[33mcommit be20c050c7cccf70973d634ab757518abb80bee1[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Oct 3 16:12:59 2022 -0300
+
+    Rotas Privadas - Criando rotas do App
+
+[33mcommit 215d18d83699f2cb3c29f04b21ef990a34b40a62[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Oct 3 16:12:07 2022 -0300
+
+    Rotas Privadas - Instalando Bottom Navigator
+
+[33mcommit f2bb9d06bd489164fdf043ec1a2d107ec9a2b8ec[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Oct 3 15:56:54 2022 -0300
+
+    Rotas Privadas - Criando telas das rotas
+
+[33mcommit 7e66b4ed6506c3decc728bc239cbd80e4a7166f2[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Sep 26 16:34:52 2022 -0300
+
+    Rotas Públicas - Definindo a imagem padrão
+
+[33mcommit a51334637b52d0db6cd6890afbc57e84f7e35b6c[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Sep 26 16:32:39 2022 -0300
+
+    Rotas Públicas - Aplicando navegação de autenticação
+
+[33mcommit 7ae9188231429a426bb168cde61624d53664f9c7[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Sep 26 16:26:57 2022 -0300
+
+    Rotas Públicas - Modificando o tema da navegação
+
+[33mcommit 2b237f1d7966818a10d657b5472fd281e8fbe70a[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Sep 26 16:20:40 2022 -0300
+
+    Rotas Públicas - Removendo o Header
+
+[33mcommit e0fe4f993206e35a553b5c2ef9eab8fe2509df43[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Sep 26 16:16:56 2022 -0300
+
+    Rotas Públicas - Criando o contexto de navegação
+
+[33mcommit b061fdb67f5dea55b013af56a41b5299c3fc0a7f[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Sep 26 16:06:40 2022 -0300
+
+    Rotas Públicas - Tipando as Rotas
+
+[33mcommit 2fbf989f9a9a41fcc8bc6bab32375374aca52568[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Sep 26 16:02:16 2022 -0300
+
+    Rotas Públicas - Criando as Rotas
+
+[33mcommit 6cea50f1412faca79c8b44e495a7879b35889267[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Sep 26 15:59:23 2022 -0300
+
+    Rotas Públicas - Instalando Stack Navigator
+
+[33mcommit 2fb7b444874e7710474f21d48d71c73e5b47307d[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Sep 26 15:50:28 2022 -0300
+
+    Component Library - Criando a SignUp
+
+[33mcommit 71dc038188e4c824bff099c345623c2a43564d75[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Sep 26 15:40:15 2022 -0300
+
+    Component Library - Finalizando a SignIn
+
+[33mcommit 66ec1a11486b423e7612c06d90febae6c13ccb6f[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Tue Sep 27 15:10:26 2022 -0300
+
+    Component Library - Restringindo as variantes
+
+[33mcommit d0779733016eff541b365761605774bcd25570ba[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Sep 26 15:30:28 2022 -0300
+
+    Component Library - Utilizando Variantes
+
+[33mcommit c45989ce46971571252a63d6a457916c1b362d90[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Sep 26 15:12:23 2022 -0300
+
+    Component Library - Componente Button
+
+[33mcommit ef802e3574a61e5fd415b0b4fcc72c849a1a7e9d[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Sep 26 15:06:18 2022 -0300
+
+    Component Library - Finalizando os Inputs
+
+[33mcommit 865ade4237ab5e263a6caae35a926e36487bc7c4[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Sep 26 15:03:37 2022 -0300
+
+    Component Library - Estilizando o focus do Input
+
+[33mcommit bf13b0789db58795567944ca4765ef3fcd05f635[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Mon Sep 26 15:00:37 2022 -0300
+
+    Component Library - Componente de Input
+
+[33mcommit 20b9580d6382aea5cd49d4d616cc503e7146dd08[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Thu Sep 22 18:59:39 2022 -0300
+
+    Component Library - Componente Heading
+
+[33mcommit 8b07e55c0f7a5b6dbd7569cf8598f920f435efd2[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Thu Sep 22 18:55:57 2022 -0300
+
+    Component Library - Utilizando SVG
+
+[33mcommit d368efba33daf385cdabb63041843c46a12713cd[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Thu Sep 22 18:37:03 2022 -0300
+
+    Component Library - Imagem de Background
+
+[33mcommit 3a50896b5d50584ed822d69689bed69a462dea28[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Thu Sep 22 18:10:53 2022 -0300
+
+    Component Library - Customizando o tema default
+
+[33mcommit 16aa3370e3ff8394afa0c47d20bc03bf7dc6cf3b[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Thu Sep 22 17:58:24 2022 -0300
+
+    Component Library - Utilizando NativeBase
+
+[33mcommit b4014ce03890d8755bf8cf88518fb8ed77cba88b[m
+Author: RennanD <rplaykl@gmail.com>
+Date:   Thu Sep 22 17:34:44 2022 -0300
+
+    Component Library - Instalando o NativeBase
